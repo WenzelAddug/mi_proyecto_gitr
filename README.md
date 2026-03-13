@@ -2,3 +2,4 @@
 ## Ejercicio de **Entornos de Desarrollo**
 ---
 Creado por *Wenzel*
+- index.html: Página principal.
