@@ -7,3 +7,5 @@ Creado por *Wenzel*
 
 CAMBIADO POR EL MASTER
 CAMBIADO EN DESARROLLO
+
+Cambio hecho desde GitHub web
